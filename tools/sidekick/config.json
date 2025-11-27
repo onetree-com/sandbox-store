@@ -1,0 +1,5 @@
+{
+  "project": "Onetree Sandbox",
+  "editUrlLabel": "Document Authoring",
+  "editUrlPattern": "https://da.live/edit#/sandbox-store/onetree-com{{pathname}}"
+}
